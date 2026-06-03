@@ -1,0 +1,15 @@
+MDK-ARM/*.obj
+MDK-ARM/*.lst
+MDK-ARM/*.d
+MDK-ARM/*.crf
+MDK-ARM/*.axf
+MDK-ARM/*.hex
+MDK-ARM/*.htm
+MDK-ARM/*.map
+MDK-ARM/Listings/
+MDK-ARM/Objects/
+.eide/
+build/
+__pycache__/
+*.pyc
+.vscode/
