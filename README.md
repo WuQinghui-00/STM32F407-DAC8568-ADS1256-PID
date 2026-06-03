@@ -38,6 +38,7 @@
 ## 软件架构
 
 ### 目录结构
+<img width="573" height="647" alt="image" src="https://github.com/user-attachments/assets/cdfc6934-0812-4989-b3bd-508a9a6a0bbe" />
 
 stm32f407com/
 ├── Core/
