@@ -40,23 +40,6 @@
 ### 目录结构
 <img width="573" height="647" alt="image" src="https://github.com/user-attachments/assets/cdfc6934-0812-4989-b3bd-508a9a6a0bbe" />
 
-stm32f407com/
-├── Core/
-│   ├── Inc/               # 头文件
-│   │   ├── DAC8568C.h
-│   │   ├── ads1256.h
-│   │   ├── pid.h
-│   │   └── protocol.h
-│   └── Src/               # 源文件
-│       ├── main.c
-│       ├── DAC8568C.c
-│       ├── ads1256.c
-│       ├── pid.c
-│       └── protocol.c
-├── MDK-ARM/               # Keil 工程文件
-├── test_host.py           # 上位机工具
-└── README.md
-
 
 ### 核心模块
 
