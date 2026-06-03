@@ -38,7 +38,17 @@
 ## 软件架构
 
 ### 目录结构
-<img width="573" height="647" alt="image" src="https://github.com/user-attachments/assets/cdfc6934-0812-4989-b3bd-508a9a6a0bbe" />
+STM32F407-DAC8568-ADS1256-PID/
+├── Core/                    # 核心代码（头文件和源文件）
+├── Drivers/                 # STM32 HAL 库驱动
+├── MDK-ARM/                 # Keil 工程文件
+├── stm32f407com/            # 可能是额外的项目文件夹
+├── .gitignore               # Git 忽略规则
+├── .mxproject               # CubeMX 项目文件
+├── README.md                # 项目说明
+├── calibration.csv          # 标定数据文件
+├── stm32f407com.ioc         # CubeMX 配置文件
+└── test_host.py             # 上位机工具
 
 
 ### 核心模块
